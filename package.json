@@ -1,0 +1,16 @@
+{
+  "name": "api_node_bancodedados",
+  "version": "1.0.0",
+  "Type": "module",
+  "description": "API funcional e entenderá os conceitos essenciais para criar suas próprias APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
